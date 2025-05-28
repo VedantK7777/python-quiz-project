@@ -14,13 +14,13 @@ Welcome to my **Python Quiz** – a fun and interactive way to test your knowled
 
 ## 🔍 View the Code:
 Want to peek under the hood? Check out the full project here:  
-👉 [GitHub Repository Link](https://github.com/your-username/python-quiz-project)
+👉 [GitHub Repository Link](https://github.com/VedantK7777/python-quiz-project.git)
 
 ---
 
 ## ▶️ Run It Online:
 Try the quiz live in your browser — no installation needed!  
-👉 [Replit Link](https://replit.com/@your-username/python-quiz-project)
+👉 [Replit Link](https://replit.com/@vedantk5555/python-quiz-project?v=1)
 
 > Just hit the green "Run" button and start playing!
 
